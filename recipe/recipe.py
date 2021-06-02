@@ -1,5 +1,5 @@
 print("Recipe of obtaining the perfect pinnapple")
 print("Get a pinnapple")
 print("Slice it up")
-print("Done!")
-print("Eat it.")
+print("Done")
+print("Eat it")
