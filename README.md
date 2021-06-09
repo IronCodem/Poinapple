@@ -14,5 +14,4 @@ You can find the recipe at [`recipe.md`](https://github.com/iop3/Pinnapple/blob/
 Submit a pr and i ***might*** accept it.
 
 ## Credits
-[@iop3](https://github.com/iop3)
-
+[@iop3](https://github.com/iop3) and [@myself](https://github.com/Tr1angular)
