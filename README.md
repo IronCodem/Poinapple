@@ -2,7 +2,7 @@
 If you fork this then you can say you forked a pineapple.
 
 
-## History(?)
+## Infamous quotes (y e s)
 > "A pinnapple is a yellow-green fruit. It's tasty and your tongue gets all tingly after eating it. =D"
 
 ~ Tr1angular (2021) 
