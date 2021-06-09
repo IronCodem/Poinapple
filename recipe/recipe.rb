@@ -1,5 +1,0 @@
-puts "Recipe of obtaining the perfect pinnapple"
-puts "1.Get a pinnapple"
-puts "2.Slice it up"
-puts "3.Done"
-puts "4.Eat it"
